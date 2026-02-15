@@ -1,0 +1,22 @@
+# Kernel Module Build Artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
+*.cmd
+.tmp_versions/
+Module.markers
+modules.order
+
+# Editor and IDE files
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
